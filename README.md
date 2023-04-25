@@ -2,19 +2,7 @@
 ## Emotion Recognition Based on Brain-Computer Interface Systems
 
 <a name="readme-top"></a>
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li> <a href="#project-description">Project Description</a>
-      <ul> <li> <a href="#features">Features</a> </li> </ul>
-      <ul> <li> <a href="#dnn-model">DNN Model</a> </li> </ul>
-    </li>
-    <li> <a href="#installation-and-set-up">Installation and Set Up</a> </li>
-  </ol>
-</details>
 
-<br> <br>
 <!-- PROJECT DESCRIPTION -->
 ## Project Description
 
@@ -31,12 +19,6 @@ This project involves developing an Artificial Intelligence (AI) model using a D
 ### DNN Model  
 ![DNN accuracy](https://user-images.githubusercontent.com/104295321/223138039-a60a0244-68ca-4fa0-bc10-6b4d7306c223.jpg)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<br> <br>
 <!-- INSTALLATION -->
 ## Installation and Set Up
 
