@@ -17,13 +17,13 @@ This project involves developing an Artificial Intelligence (AI) model using a D
 6. Displaying identified emotions on a dashboard
 
 ### DNN Model  
-<img src="https://user-images.githubusercontent.com/104295321/223138039-a60a0244-68ca-4fa0-bc10-6b4d7306c223.jpg" width=60% height=60%>
+<img src="https://user-images.githubusercontent.com/104295321/223138039-a60a0244-68ca-4fa0-bc10-6b4d7306c223.jpg" width=70% height=70%>
 
 ### Dashboard
-<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/258821a1-5832-43c2-b5a9-d56cbee53704" width=60% height=60%>
-<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/851a881c-9031-4ea3-a837-a1b4284bbd64" width=60% height=60%>
-<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/63b8ace8-bb4d-46b8-803a-4f72108a92c6" width=60% height=60%>
-<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/3ade2d9f-4755-43fd-a308-00531852baca" width=60% height=60%>
+<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/258821a1-5832-43c2-b5a9-d56cbee53704" width=70% height=70%>
+<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/851a881c-9031-4ea3-a837-a1b4284bbd64" width=70% height=70%>
+<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/63b8ace8-bb4d-46b8-803a-4f72108a92c6" width=70% height=70%>
+<img src="https://github.com/lisahyx/Deep-Learning-Emotion-Recognition/assets/104295321/3ade2d9f-4755-43fd-a308-00531852baca" width=70% height=70%>
 
 <!-- INSTALLATION -->
 ## Installation and Set Up
